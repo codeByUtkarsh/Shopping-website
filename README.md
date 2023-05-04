@@ -4,7 +4,7 @@ The purpose of this website is to provide a user-friendly interface for customer
 
 Getting Started
 
-git clone https://github.com/your-username/shopping-website-frontend.git
+git clone https://github.com/codeByUtkarsh/Shopping-website.git
 
 If you'd like to contribute to this project, please create a pull request with your changes. 
 I welcome all contributions and appreciate your help in making this project better!
